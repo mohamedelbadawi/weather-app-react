@@ -1,6 +1,7 @@
 body {
     display: flex;
     justify-content: center;
+    align-items: center;
 }
 
 .container {
@@ -56,14 +57,19 @@ body {
     font-size: 35px;
     color: white;
     margin-top: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .weather-location {
     font-size: 30px;
     color: white;
     margin: 10px;
-
     padding: 5px;
+    display: flex;
+    justify-content: center;
+
 }
 
 .data-container {
