@@ -10,3 +10,7 @@ root.render(
   </React.StrictMode>
 );
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> dd5ae7a (weather app)
