@@ -46,7 +46,7 @@ export const Weather = () => {
             </div>
             <div className='weather-image'>
                 {data.icon && <img src={require(`./Assets/${data.icon}`)} alt='weather' />}
-                <img src={clearImage} alt='weather' />
+               
             </div>
             <div className='weather-temp'>{data.temp} °C</div>
             <div className='weather-location'>{data.name}</div>
